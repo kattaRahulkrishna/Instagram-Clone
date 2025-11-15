@@ -1,0 +1,104 @@
+.search-bg {
+  width: 100%;
+  padding: 20px;
+}
+
+.search-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.search-bar input {
+  width: 260px;
+  padding: 6px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+
+.search-bar button {
+  margin-left: 10px;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.results-heading {
+  margin-bottom: 15px;
+}
+
+.search-results-list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.search-post-item {
+  margin-bottom: 30px;
+}
+
+.author-box {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.author-pic {
+  width: 45px;
+  height: 45px;
+  border-radius: 25px;
+  margin-right: 10px;
+}
+
+.username {
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.post-image {
+  width: 100%;
+  margin: 15px 0;
+}
+
+.actions-row {
+  display: flex;
+  align-items: center;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 22px;
+}
+
+.comment-icon,
+.share-icon {
+  margin-left: 15px;
+  font-size: 22px;
+}
+
+.liked-icon {
+  color: red;
+}
+
+.likes {
+  font-weight: 600;
+}
+
+.comments-list {
+  padding: 0;
+  list-style: none;
+}
+
+.comment-username {
+  font-weight: 600;
+}
+
+.comment-text {
+  display: inline;
+}
+
+.no-results-container,
+.failure-container {
+  text-align: center;
+}

@@ -1,0 +1,19 @@
+.stories-slider-container {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.story-box {
+  text-align: center;
+}
+
+.story-image {
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+}
+
+.story-name {
+  font-size: 12px;
+  margin-top: 5px;
+}

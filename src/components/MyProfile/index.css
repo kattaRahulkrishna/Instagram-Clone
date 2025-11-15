@@ -1,0 +1,106 @@
+.my-profile-bg-container {
+  width: 100%;
+  padding: 20px;
+}
+
+.profile-container {
+  width: 100%;
+}
+
+.profile-header {
+  display: flex;
+  align-items: center;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 60px;
+  margin-right: 30px;
+}
+
+.details-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.username {
+  font-size: 28px;
+}
+
+.count-list {
+  display: flex;
+  padding: 0;
+  margin: 10px 0;
+  list-style-type: none;
+}
+
+.count-item {
+  margin-right: 18px;
+}
+
+.user-id,
+.user-bio {
+  margin: 0;
+}
+
+.stories-list {
+  display: flex;
+  margin-top: 20px;
+  padding: 0;
+  list-style-type: none;
+}
+
+.story-item {
+  margin-right: 12px;
+}
+
+.story-img {
+  width: 85px;
+  height: 85px;
+  border-radius: 45px;
+}
+
+.posts-heading-container {
+  display: flex;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.grid-icon {
+  margin-right: 10px;
+}
+
+.posts-heading {
+  font-size: 20px;
+}
+
+.posts-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style-type: none;
+}
+
+.post-item {
+  width: 32%;
+  margin-bottom: 12px;
+  margin-right: 1%;
+}
+
+.post-img {
+  width: 100%;
+  height: 100%;
+}
+
+.no-posts-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.camera-icon {
+  font-size: 50px;
+  margin-bottom: 10px;
+}
