@@ -155,5 +155,3 @@ Base URL: `https://apis.ccbp.in`
 
 **Katta Rahul Krishna**
 - 📧 kattarahulkrishna05853@gmail.com
-- 💻 [GitHub](https://github.com/kattaRahulkrishna)
-- 🔗 [LinkedIn](https://linkedin.com/in/katta-rahul-krishna)
